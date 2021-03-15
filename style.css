@@ -1,0 +1,85 @@
+body{
+    background: linear-gradient(to top, #000, #000);
+}
+
+#hello{
+    color:blue;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    display: flex;
+}
+
+#lima{
+    margin-left: 460px;
+  
+}
+
+#funcao{
+    color: white;
+    margin-bottom: 8em;
+    margin-left: 100px;
+    margin-top: 1em;
+    position: static;
+}
+
+#eu{
+    max-width: 100%;
+    width: 40em;
+    border-radius: 20%;
+    margin-left: 700px;
+    margin-top: -700px;
+}
+
+#brabo{
+    border-radius: 50px;
+    border-top: solid 10px;
+    margin-top: -70px;
+    position:static;
+
+}
+
+
+.informacoes{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: -500px;
+    margin-left: 5px;
+    max-block-size: inherit;
+}
+
+.informacoes p{
+    margin-top: 1px;
+    margin-bottom: 0ch;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.informacoes h3{
+    text-shadow: 5px 10px 5px;
+    margin-bottom: 15px;
+}
+
+#si{
+    margin-bottom: 30px;
+}
+
+.botao{
+    margin-left: 650px;
+    margin-right: auto;
+    border: solid 1px white;
+    border-radius: 10px;
+    color:white;
+    background-color: blue;
+    margin-bottom: 50px;
+    width: auto;
+    height: 40px;
+}
+
+.botao a{
+    color:white;
+}
+
+.informacoes a{
+    text-decoration: none;;
+}
